@@ -1,4 +1,4 @@
-# rough_project
+# Gallery App
 
 A new Flutter project.
 
